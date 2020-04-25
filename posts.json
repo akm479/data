@@ -288,5 +288,34 @@
             }
         ],
         "published_time": "2020-01-10T00:00:00.000Z"
+    },
+    {
+        "id": "process-based-parallelism-in-Python",
+        "title": "Proces based parallelism in python",
+        "description": "In this article we are going to dive deep and see how python achieves process based parallelism using the multiprocesing module and compare the results with the sequential execution",
+        "cover": "https://user-images.githubusercontent.com/27894559/80276263-314df400-8705-11ea-8372-7d5f36dc4b7a.png",
+        "gif": "https://media.giphy.com/media/3ohjUMKopips6jL99S/giphy.gif",
+        "authors": [
+            {
+                "id": "hodor",
+                "twitter_handle": "LogicalPersn",
+                "name": "Akshay Malav",
+                "bio": "Final Year CSE Undergrad at IIT Jodhpur | Interned at Mathworks",
+                "profile_img": "https://user-images.githubusercontent.com/27894559/80276303-7bcf7080-8705-11ea-8413-34ad10f08d44.png",
+                "cover": "https://user-images.githubusercontent.com/27894559/80276262-2e530380-8705-11ea-8114-2d8db748cb8e.png",
+                "substack": "",
+                "github": "litelo",
+                "linkedin": "https://www.linkedin.com/in/akshay-malav-935033129/",
+                "website": ""
+            }
+        ],
+        "topics": [
+            {
+                "id": "python",
+                "name": "Python",
+                "parent": "languages"
+            }
+        ],
+        "published_time": "2020-04-25T00:00:00.000Z"
     }
 ]
