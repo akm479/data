@@ -218,6 +218,8 @@ The time taken by the above program is approximately **42.42 secs**. Here first 
 \
 ![comparison table](https://user-images.githubusercontent.com/27894559/80100155-2bcd9e00-858d-11ea-906c-5ad2ae07d11d.png)
 
+Using the process-based parallelism we are able to reduce the total time taken by more than half than sequential execution.
+>The values in comparison can differ depending on the system
 
 ### Process-based parallelism: Yes or No
 \
